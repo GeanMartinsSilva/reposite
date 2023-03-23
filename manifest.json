@@ -1,6 +1,6 @@
 {
-    "name": "webtest",
-    "short_name": "webtest",
+    "name": "portal_conferencias",
+    "short_name": "portal_conferencias",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
